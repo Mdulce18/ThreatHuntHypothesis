@@ -1,1 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T20:23:09.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" version="14.9.7" etag="IquM22O_79O-c_EBnaxX" type="github"><diagram id="oW1d0PTjMQTa3aBeWp0J">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-26T20:30:37.075Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="uAtwyp5TJ5UGXCQoZjPb" version="14.9.7" type="github">
+  <diagram id="oW1d0PTjMQTa3aBeWp0J" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="otIluIOdpRxnjF3g8glf-1" value="&lt;div class=&quot;c-message_kit__gutter&quot; style=&quot;box-sizing: inherit; display: flex; padding: 8px 20px; color: rgb(204, 199, 192); font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(28, 31, 32);&quot;&gt;&lt;div class=&quot;c-message_kit__gutter__right&quot; style=&quot;box-sizing: inherit ; min-width: 0px ; padding: 8px 8px 8px 16px ; margin: -12px -8px -16px -16px&quot;&gt;&lt;div class=&quot;c-message_kit__blocks c-message_kit__blocks--rich_text&quot; style=&quot;box-sizing: inherit ; max-width: none ; margin-bottom: 4px&quot;&gt;&lt;div class=&quot;c-message__message_blocks c-message__message_blocks--rich_text&quot; style=&quot;box-sizing: inherit ; max-width: none ; overflow-wrap: break-word&quot;&gt;&lt;div class=&quot;p-block_kit_renderer&quot; style=&quot;box-sizing: inherit ; width: 1576px&quot;&gt;&lt;div class=&quot;p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first&quot; style=&quot;box-sizing: inherit ; display: flex&quot;&gt;&lt;div class=&quot;p-rich_text_block&quot; dir=&quot;auto&quot; style=&quot;box-sizing: inherit ; width: 1576px ; text-align: left ; font-size: 15px ; line-height: 1.46668&quot;&gt;&lt;div class=&quot;p-rich_text_section&quot; style=&quot;box-sizing: inherit&quot;&gt;Realizacion de hipotesis en confluence -&amp;gt; Escritura de Documento de hunting por tecnica(esta tecnica puede tener multiples triggers) -&amp;gt; se escriben las teglas -&amp;gt; se escribe caso de uso&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;c-message_actions__container c-message__actions&quot; style=&quot;box-sizing: inherit; position: absolute; top: -16px; right: 17px; display: inline-flex; z-index: 1; color: rgb(204, 199, 192); font-size: 15px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(28, 31, 32);&quot;&gt;&lt;div class=&quot;c-message_actions__group&quot; style=&quot;box-sizing: inherit ; background: rgb(22 , 24 , 25) ; line-height: 1 ; margin-left: 8px ; box-shadow: 0 0 0 1px , 0 1px 3px 0 rgba(0 , 0 , 0 , 0.08) ; display: flex ; padding: 2px ; border-radius: 0.375em&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="40" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="otIluIOdpRxnjF3g8glf-2" target="otIluIOdpRxnjF3g8glf-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="250" />
+              <mxPoint x="120" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-2" value="Realizacion de hipotesis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="otIluIOdpRxnjF3g8glf-3" target="otIluIOdpRxnjF3g8glf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="290" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-3" value="Pruebas en laboratorio" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="otIluIOdpRxnjF3g8glf-5" target="otIluIOdpRxnjF3g8glf-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="otIluIOdpRxnjF3g8glf-5" target="otIluIOdpRxnjF3g8glf-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-5" value="Documento de Hunting x técnica" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="otIluIOdpRxnjF3g8glf-7" target="otIluIOdpRxnjF3g8glf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-7" value="Escritura de regla Sigma x tecnica en el repo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="otIluIOdpRxnjF3g8glf-9" value="Escritura de caso de uso en el repo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
